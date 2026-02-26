@@ -1,9 +1,0 @@
-2. AI-Powered Interior Design Material Matcher
-Description: An automation script that processes user-uploaded interior design specs (e.g., room dimensions, styles), scrapes material databases, uses ML for matching recommendations, and outputs a normalized database entry with validation.
-Problem: Designers often struggle with matching materials to specs due to inconsistent data formats across suppliers, resulting in mismatched recommendations and wasted time on manual validation.
-Solution: Built with Python and Playwright for dynamic web scraping of interiors sites (e.g., IKEA or BIM object libraries). Handled semi-structured data using Pandas for normalization and transformation. Integrated ML via Hugging Face Transformers for NLP-based classification and similarity matching (e.g., cosine similarity on embeddings for material compatibility). Database operations with SQLAlchemy and PostgreSQL for storing matched results. Generated reports with Python's ReportLab library, including visualizations of matches.
-Recommendation: This directly showcases AI/ML for classification/matching, data normalization, and database work—key JD elements. Highlight research-oriented aspects, like experimenting with different ML models. In your portfolio, include code snippets for the ML pipeline and a Jupyter notebook demo; mention in your CV how it applies to BIM/interiors data to appeal to the "nice-to-have" criteria.
-
-#ai-interior-material-recommender-ethiopia
-#AI Interior Material Recommender for Ethiopia: Enter style/color/budget queries → get ranked matches from 2merkato.com data using sentence embeddings. Built with Python, sentence-transformers & Streamlit.
-#Python #Streamlit #SentenceTransformers #RecommendationSystem #AI #MachineLearning #WebScraping #EthiopiaTech #InteriorDesign #DataScience #PortfolioProject
