@@ -5,20 +5,3 @@ __pycache__/
 .env
 .venv/
 venv/
-
-# Virtual environment
-venv/
-.venv/
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints/
-
-# Secrets
-.env
