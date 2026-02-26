@@ -4,7 +4,7 @@
 
 An intelligent recommendation system that helps users find matching interior finishing materials (tiles, paints, glass, sanitary ware, etc.) based on natural language queries (style, color, budget, room type, material preferences).
 
-## A project demonstrating:
+## Project Highlights
 
 - Web scraping & data collection from Ethiopian source - https://con.2merkato.com/prices (Construction Market Watch)  
 - Data cleaning & feature engineering  
