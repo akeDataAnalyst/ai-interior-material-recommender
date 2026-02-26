@@ -1,10 +1,12 @@
 # AI-Powered Interior Material Recommender & Matching Engine
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ai-interior-material-recommender-zgpgdb84fz5znjushytlts.streamlit.app/)
+
 
 An intelligent recommendation system that helps users find matching interior finishing materials (tiles, paints, glass, sanitary ware, etc.) based on natural language queries (style, color, budget, room type, material preferences).
 
-A project demonstrating:
+## A project demonstrating:
 
-- Web scraping & data collection from Ethiopian sources  
+- Web scraping & data collection from Ethiopian source - https://con.2merkato.com/prices (Construction Market Watch)  
 - Data cleaning & feature engineering  
 - Text embeddings & similarity search (Hugging Face sentence-transformers)  
 - Interactive recommendation engine  
